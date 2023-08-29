@@ -19,3 +19,4 @@ https://arxiv.org/abs/2303.03926
 
 ## Output
 
+![image](https://github.com/camenduru/VALL-E-X-colab/assets/54370274/4a2188e8-b004-4fa0-9cce-426b8ec31f6a)
